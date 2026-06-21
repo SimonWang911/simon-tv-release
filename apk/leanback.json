@@ -1,10 +1,10 @@
 {
-  "code": 553,
-  "name": "5.5.3",
-  "desc": "\u4f18\u5316\u9ed8\u8ba4\u914d\u7f6e\n\u4f18\u5316\u9996\u9875\u5165\u53e3\u4ea4\u4e92\n\u4f18\u5316\u66f4\u65b0\u68c0\u6d4b\u7a33\u5b9a\u6027",
+  "code": 554,
+  "name": "5.5.4",
+  "desc": "\u4f18\u5316\u7248\u672c\u5165\u53e3\u4ea4\u4e92\n\u4f18\u5316\u66f4\u65b0\u4e0b\u8f7d\u7a33\u5b9a\u6027",
   "apk": {
-    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.5.3-simon/Simon-leanback-arm64_v8a.apk",
-    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.5.3-simon/Simon-leanback-armeabi_v7a.apk"
+    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.5.4-simon/Simon-leanback-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.5.4-simon/Simon-leanback-armeabi_v7a.apk"
   },
   "proxies": [
     "https://gh-proxy.com/",
