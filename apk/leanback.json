@@ -1,0 +1,14 @@
+{
+  "code": 552,
+  "name": "5.5.2",
+  "desc": "优化默认配置\n优化首页入口交互",
+  "apk": {
+    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.5.2-simon/Simon-leanback-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.5.2-simon/Simon-leanback-armeabi_v7a.apk"
+  },
+  "proxies": [
+    "https://gh-proxy.com/",
+    "https://wget.la/",
+    "https://ghfast.top/"
+  ]
+}
