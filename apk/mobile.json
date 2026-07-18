@@ -1,10 +1,10 @@
 {
-  "code": 5602,
-  "name": "5.6.2",
-  "desc": "5.6.2 \u66f4\u65b0\u8bf4\u660e\n\n- \u7535\u89c6\u7248\u641c\u7d22\u9875\u9762\u6539\u7248\uff0c\u5207\u6362\u6765\u6e90\u66f4\u65b9\u4fbf\u3002\n- \u4f18\u5316\u4e0b\u8f7d\u6392\u961f\u548c\u81ea\u52a8\u91cd\u8bd5\uff0c\u51cf\u5c11\u94fe\u63a5\u8fc7\u671f\u5bfc\u81f4\u7684\u4e0b\u8f7d\u5931\u8d25\u3002\n- \u4f18\u5316\u64ad\u653e\u89e3\u7801\u5207\u6362\u548c\u4e0b\u8f7d\u901a\u77e5\u3002\n- \u9996\u9875\u652f\u6301\u53cc\u51fb\u8fd4\u56de\u9000\u51fa\u3002",
+  "code": 5603,
+  "name": "5.6.3",
+  "desc": "5.6.3 \u66f4\u65b0\u8bf4\u660e\n\n- \u4f18\u5316\u91cd\u65b0\u4e0b\u8f7d\u4efb\u52a1\u8c03\u5ea6\uff0c\u4fee\u590d\u91cd\u65b0\u4e0b\u8f7d\u540e\u5e76\u884c\u4e0b\u8f7d\u6570\u91cf\u53ef\u80fd\u5f02\u5e38\u51cf\u5c11\u7684\u95ee\u9898\u3002",
   "apk": {
-    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.2-simon/Simon-mobile-arm64_v8a.apk",
-    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.2-simon/Simon-mobile-armeabi_v7a.apk"
+    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.3-simon/Simon-mobile-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.3-simon/Simon-mobile-armeabi_v7a.apk"
   },
   "proxies": [
     "https://gh-proxy.com/",
