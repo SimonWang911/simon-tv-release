@@ -1,10 +1,10 @@
 {
-  "code": 5603,
-  "name": "5.6.3",
-  "desc": "5.6.3 \u66f4\u65b0\u8bf4\u660e\n\n- \u4f18\u5316\u91cd\u65b0\u4e0b\u8f7d\u4efb\u52a1\u8c03\u5ea6\uff0c\u4fee\u590d\u91cd\u65b0\u4e0b\u8f7d\u540e\u5e76\u884c\u4e0b\u8f7d\u6570\u91cf\u53ef\u80fd\u5f02\u5e38\u51cf\u5c11\u7684\u95ee\u9898\u3002",
+  "code": 5604,
+  "name": "5.6.4",
+  "desc": "5.6.4 \u66f4\u65b0\u8bf4\u660e\n\n- \u4fee\u590d\u90e8\u5206\u5e73\u677f\u8bbe\u5907\u6253\u5f00\u89c6\u9891\u65f6\u95ea\u9000\u7684\u95ee\u9898\uff0c\u5e76\u5b8c\u5584\u5e73\u677f\u64ad\u653e\u9875\u4e0b\u8f7d\u5165\u53e3\u3002",
   "apk": {
-    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.3-simon/Simon-leanback-arm64_v8a.apk",
-    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.3-simon/Simon-leanback-armeabi_v7a.apk"
+    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.4-simon/Simon-leanback-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.6.4-simon/Simon-leanback-armeabi_v7a.apk"
   },
   "proxies": [
     "https://gh-proxy.com/",
