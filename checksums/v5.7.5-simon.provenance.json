@@ -1,0 +1,89 @@
+{
+  "versionName": "5.7.5",
+  "versionCode": 57050,
+  "tag": "v5.7.5-simon",
+  "sourceCommit": "b594266136a67d89cafbcaa8d358fbec7bda9955",
+  "featureCommit": "c06eed7ef63e517c07ac1eaf22cbe73a3054cfcb",
+  "previousReleaseSource": "d54df5750",
+  "buildInputManifestSha256": "67245707F9B344506A0FA047E91CE56F75CDDD1C7D34F43D7C144C5685C40956",
+  "media3": "FongMi 1.11.0 unchanged",
+  "unitTests": [
+    {
+      "flavor": "Mobile",
+      "tests": 1984,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    },
+    {
+      "flavor": "Leanback",
+      "tests": 1993,
+      "failures": 0,
+      "errors": 0,
+      "skipped": 0
+    }
+  ],
+  "lint": [
+    {
+      "flavor": "mobile",
+      "errors": 0,
+      "warnings": 229
+    },
+    {
+      "flavor": "leanback",
+      "errors": 0,
+      "warnings": 232
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Simon-mobile-arm64_v8a.apk",
+      "size": 57661964,
+      "sha256": "E8BC014AAB25DCC9A938BC1B8EBDAF652D2E8F404A7393C640214BB483AB7B80",
+      "variant": "mobileArm64_v8aRelease",
+      "abi": "arm64-v8a",
+      "debuggable": false,
+      "certificateSha256": "d2e4df8d747d696b4118c1d7d892a8a1febff41f5296ed0e343d2477ede437ca",
+      "mappingSha256": "FA67E9F48E216B131A1C9F49F3B8FB48F43F15DEC046DCD1D47B6B2AC0AB74B3",
+      "memoryImplementationPresent": true
+    },
+    {
+      "name": "Simon-mobile-armeabi_v7a.apk",
+      "size": 50109226,
+      "sha256": "71F82AB8F43BDC340F956E2BEB632D4DAA34D5651AB73FE791129C3FE022487D",
+      "variant": "mobileArmeabi_v7aRelease",
+      "abi": "armeabi-v7a",
+      "debuggable": false,
+      "certificateSha256": "d2e4df8d747d696b4118c1d7d892a8a1febff41f5296ed0e343d2477ede437ca",
+      "mappingSha256": "E2D618CBE15F676871910AC9B85DCC71DEA63E090CCBBB63BBB6D4E39C243127",
+      "memoryImplementationPresent": true
+    },
+    {
+      "name": "Simon-leanback-arm64_v8a.apk",
+      "size": 57679799,
+      "sha256": "4ABE090B47DA5AAA0BC32FC3B2DB8613581A972BB623545BA635D8F1D029F1DE",
+      "variant": "leanbackArm64_v8aRelease",
+      "abi": "arm64-v8a",
+      "debuggable": false,
+      "certificateSha256": "d2e4df8d747d696b4118c1d7d892a8a1febff41f5296ed0e343d2477ede437ca",
+      "mappingSha256": "5647ABACA03AEB90E1ADB399AB8848BE71BB104A938B5EA69D064051ABCE719F",
+      "memoryImplementationPresent": true
+    },
+    {
+      "name": "Simon-leanback-armeabi_v7a.apk",
+      "size": 50127061,
+      "sha256": "094667D4F30DE263B3CE1ACC2DFAFA0C10CF68D0052ED44CAA0A511DD47C4214",
+      "variant": "leanbackArmeabi_v7aRelease",
+      "abi": "armeabi-v7a",
+      "debuggable": false,
+      "certificateSha256": "d2e4df8d747d696b4118c1d7d892a8a1febff41f5296ed0e343d2477ede437ca",
+      "mappingSha256": "917686F4EBD3A5DDA02AAD14A81339BA3E0487942CF1288D4515FDA632BCDECB",
+      "memoryImplementationPresent": true
+    }
+  ],
+  "physicalAcceptance": "User accepted mobile and leanback on 2026-09-10. No new Release/device tests performed.",
+  "limitations": [
+    "Latest ASSRT connectivity test failed before HTTP response; network service availability is not guaranteed.",
+    "Release in-place Room 45 to 46 upgrade and physical TV hardware were not retested; user accepted the disclosed gaps."
+  ]
+}
