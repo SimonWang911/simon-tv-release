@@ -3,7 +3,12 @@
   "name": "5.7.7",
   "desc": "5.7.7 更新日志\n\n【新增】\n- 手机版新增“听视频”模式：关闭画面，仅保留音频播放，适合后台收听。\n- 播放页面的“轨道”菜单新增“听视频”入口，主界面按钮与菜单状态保持同步。\n- 记忆每个视频的听视频状态；重新进入同一视频时继续沿用，自动切换同一合集的其他集数时也会延续当前状态。\n\n【优化】\n- 听视频模式沿用播放器的视频轨道控制，不改变原有音频和播放进度逻辑。\n- 听视频模式使用封面进行静态展示，关闭后恢复视频画面。\n- 开启听视频时，如后台播放尚未启用，会给出选择提示，可直接开启后台播放；用户也可以保持关闭并继续当前播放。\n- 听视频模式下不进入画中画，后台播放行为按用户选择执行。\n\n【修复】\n- 修复听视频状态在重新进入视频或切换集数后不同步的问题。\n- 修复播放页面按钮与“轨道”菜单状态不一致的问题。\n\n说明：本功能仅面向手机版，电视版本次不新增听视频入口。",
   "apk": {
-    "arm64_v8a": "http://simonwang.cn:7099/d/189Cloud/OpenFiles/OpenFiles/Movies/Simon/Leanback/leanback-arm64_v8a.apk?sign=hLSB4Cl16xeeCm5NYCWZZGsy6x0sOWvn52UmuUOn0tk=:0",
-    "armeabi_v7a": "http://simonwang.cn:7099/d/189Cloud/OpenFiles/OpenFiles/Movies/Simon/Leanback/leanback-armeabi_v7a.apk?sign=a9zfRGYMTEATDQHtu_ZRiHV8VqGlgiXEaI0sQQD7KHs=:0"
-  }
+    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.7.7-simon/Simon-leanback-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.7.7-simon/Simon-leanback-armeabi_v7a.apk"
+  },
+  "proxies": [
+    "https://gh-proxy.com/",
+    "https://wget.la/",
+    "https://ghfast.top/"
+  ]
 }
