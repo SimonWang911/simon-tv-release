@@ -1,10 +1,10 @@
 {
-  "code": 59080,
-  "name": "5.9.8",
-  "desc": "优化\n• 优化手机端和电视端的下载操作响应与反馈，减少操作等待和重复提交。\n• 完善下载删除失败后的恢复与重新下载处理，加强共享下载内容的保护。\n\n修复\n• 修复删除本地下载视频时可能闪退，以及首次操作下载任务偶发失败的问题。\n• 修复删除合集最后一集时，可能误删同时新增下载任务的问题。\n• 修复批量删除、重新下载时部分文件清理不完整的问题。\n• 修复下载操作失败后选中项被清空，以及离开页面后操作反馈异常的问题。\n• 修复查看下载存储位置时意外触发数据更新的问题。\n• 修复连续恢复下载库、切换存储位置时可能失败或异常退出的问题。\n• 修复正式版下载清理记录保存异常、影响后续恢复的问题。",
+  "code": 59090,
+  "name": "5.9.9",
+  "desc": "优化\n• 优化手机和平板在横屏、超宽屏及分屏下的布局，封面、列表和文字大小更协调。\n• 优化工具栏、设置、订阅选择、播放菜单和选集等控件的尺寸与点击区域。\n• 优化宽屏播放预览、全屏切换及手势操作，短屏幕下的播放设置可以滚动查看。\n• 优化搜索和直播的加载动画，使占位与实际内容布局、颜色更一致。\n\n修复\n• 修复窗口变化或重新进入页面后，部分控件未及时适配的问题。\n• 修复“扩展”菜单三项选项高度与其他设置项不一致的问题。\n• 修复搜索加载时封面占位缺失、文字占位变成细竖线及列表位置错位的问题。\n• 修复直播加载占位尺寸不协调、深色背景下不易辨认，以及页面恢复时可能异常的问题。\n• 修复首次安装或未设置订阅时，扫码同步后出现空订阅、未自动加载对方当前订阅的问题。\n• 修复同步过程中干扰正在进行的订阅加载，以及空内容订阅被重复加载的问题。",
   "apk": {
-    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.9.8-simon/Simon-leanback-arm64_v8a.apk",
-    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.9.8-simon/Simon-leanback-armeabi_v7a.apk"
+    "arm64_v8a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.9.9-simon/Simon-leanback-arm64_v8a.apk",
+    "armeabi_v7a": "https://github.com/SimonWang911/simon-tv-release/releases/download/v5.9.9-simon/Simon-leanback-armeabi_v7a.apk"
   },
   "proxies": [
     "https://gh-proxy.com/",
